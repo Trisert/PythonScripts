@@ -1,5 +1,8 @@
 #! /usr/bin/python
 
+def somma(a, b):
+    return a + b
+
 def fatrico(n):
     if n == 1:
         return n
@@ -15,4 +18,4 @@ def fatciclo(num):
     else:
         for i in range(1,num+1):
             factorial = factorial*i
-        print("Il fattoriale di",num,"è",factorial)
+        return factorial
