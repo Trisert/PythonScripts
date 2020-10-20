@@ -4,11 +4,12 @@ import pyautogui
 import os
 
 pyautogui.moveTo(1529, 891)
+pyautogui.click()
 pyautogui.press("i")
 
 file = open("Numeri.txt", "a")
 
-for i in range(0,201):
+for i in range(0,1000000):
    file.write(str(i))
    file.write("\n")
 file.close()

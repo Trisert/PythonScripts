@@ -3,10 +3,8 @@
 import pyautogui
 import time
 
-time.sleep(5)
-
 print(pyautogui.position())
-pyautogui.moveTo(1529, 891)
+pyautogui.moveTo(606, 1000)
 pyautogui.click()
 
 file = open("BeeMovie.txt", "r")
