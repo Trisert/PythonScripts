@@ -8,6 +8,9 @@ import numpy
 import tflearn
 import tensorflow 
 import random
+from keras.models import Sequential
+from keras.layers import Dense, Activation, Dropout
+from keras.optimizers import SGD
 import json
 import pickle
 
@@ -67,7 +70,7 @@ except:
     with open("data.pickle", "wb") as f:
         pickle.dump((words, labels, training, output), f)
 
-tf.reset_default_graph()
+tensorflow.reset_default_graph()
 
 net = tflearn.input_data(shape=[None, len(training[0])])
 net = tflearn.fully_connected(net, 8)
