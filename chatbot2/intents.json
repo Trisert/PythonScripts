@@ -25,8 +25,18 @@
          "context_set": ""
         },
         {"tag": "hours",
-         "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
-         "responses": ["We are open 7am-4pm Monday-Friday!"],
+         "patterns": ["Che ore sono?", "Mi potresti dire l'ora?"],
+         "responses": ["Mi dispiace non è nelle mie capacità, ma forse sarebbe meglio comprarsi un orologio!"],
+         "context_set": ""
+        },
+        {"tag": "cinema",
+         "patterns": ["Ti piacciono i film?", "Guardi film?"],
+         "responses": ["Si!", "Si, penso siano fantastici!"],
+         "context_set": ""
+        },
+        {"tag": "calcoli",
+         "patterns": ["15 + 18", "qundici e diciotto"],
+         "responses": ["Non fa 36!", "Dio te maledica!", "Te tiro no sciafon che te impituro su pal muro"],
          "context_set": ""
         }
    ]

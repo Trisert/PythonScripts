@@ -7,12 +7,12 @@ print(pyautogui.position())
 pyautogui.moveTo(606, 1000)
 pyautogui.click()
 
-file = open("BeeMovie.txt", "r")
+with open("BeeMovie.txt", "r") as file:
 
-for i in file:
-    i = i.rstrip()
-    if len(i) > 0:
-        i = i.split()
-        for j in i:
-            pyautogui.write(str(j))
-            pyautogui.press("enter")
+   for i in file:
+       i = i.rstrip()
+       if len(i) > 0:
+          i = i.split()
+          for j in i:
+              pyautogui.write(str(j))
+              pyautogui.press("enter")
