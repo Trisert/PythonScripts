@@ -1,0 +1,69 @@
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513019140	Marionette	INFO	Listening on port 46241
+1607513019225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607513052847	Marionette	INFO	Stopped listening on port 46241
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513059354	Marionette	INFO	Listening on port 37395
+1607513059390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://192.168.1.1"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://192.168.1.1"
+1607513285590	Marionette	INFO	Stopped listening on port 37395
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513353500	Marionette	INFO	Listening on port 42751
+1607513353582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607513371241	Marionette	INFO	Stopped listening on port 42751
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513391092	Marionette	INFO	Listening on port 39609
+1607513391149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513500175	Marionette	INFO	Listening on port 40849
+1607513500211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607513501953	Marionette	INFO	Stopped listening on port 39609
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513513738	Marionette	INFO	Listening on port 43599
+1607513513855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1607513546828	Marionette	INFO	Stopped listening on port 43599
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513562177	Marionette	INFO	Listening on port 36025
+1607513562226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607513565786	Marionette	INFO	Stopped listening on port 40849
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513586118	Marionette	INFO	Listening on port 43551
+1607513586186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607513587834	Marionette	INFO	Stopped listening on port 36025
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513627473	Marionette	INFO	Listening on port 34935
+1607513627504	Marionette	INFO	Stopped listening on port 43551
+1607513627533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607513787040	Marionette	INFO	Stopped listening on port 34935
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513792109	Marionette	INFO	Listening on port 37099
+1607513792210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607513817903	Marionette	INFO	Stopped listening on port 37099
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607513820555	Marionette	INFO	Listening on port 46841
+1607513820590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://192.168.1.1/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1607513856512	Marionette	INFO	Stopped listening on port 46841
